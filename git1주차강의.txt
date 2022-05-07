@@ -1,0 +1,21 @@
+핵심 쏙쏙 GIT 항해 7기 / 오시영 튜터
+
+1주차 강의 Git 개념
+
+Git이란?
+Github란?
+
+버전관리하기란?
+
+commit이란?
+
+Commit history란?
+
+Git 초기화란?
+
+Add or. staging이란?
+
+repo란?
+원격 repo란?
+로컬 repo는?
+
