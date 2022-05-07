@@ -5,18 +5,27 @@
 Git이란?
 Github란?
 
-버전관리하기란?
+버전관리하기란? 버전이 다르다는 것은 프로젝트 상태가 변경되었다는 것! Git 은 가장 널리 쓰이는 버전관리 도구 중에 하나로 commit 을 사용해서 버전이 달라지는 것을 관리
 
-commit이란?
+- 작업내역을 반영하기 위한 단계: add(staging) - commit
+    - git 초기화(initialize)는 처음에 단 한번만.
 
-Commit history란?
+commit이란? 현재 프로젝트의 상태를 찰칵 📸  저장하는 것 
+ - 누가(author), 언제(시간), commit 시점의 파일 상태, commit 메시지  정보를 포함.
+
+Commit history란? commit 한 순서대로의  리스트
 
 Git 초기화란?
 
-Add or. staging이란?
+Add or staging이란? commit 에 반영할지 안할지는 파일 단위로 선택할 수 있습니다. commit 에 반영할 파일을 선택하는 것
 
-repo란?
-원격 repo란?
-로컬 repo는?
+repo란? 'Git으로 관리되는 프로젝트' 를 Git 에서는 **repo(리포**, repository 리포지토리의 약자) 라고 함.
+원격 repo란? Github 처럼 다른 곳에서 접속할 수 있는 공간에 저장되어있는 것을 **원격 repo**(remote repository)
+로컬 repo는? 내 컴퓨터에 저장되어있는 리포지토리를 **로컬 repo**(local repository)
+
+Tracking(추적) : 로컬 repo 와 원격 repo 를 연결
+
+clone(복제): 원격 repo를 내 컴퓨터에 가져와서 초기 repo 세팅하는 것
 
 https://www.notion.so/Git-1-3cb2c0d54a9743898d2420d8e075a286#10c57ffa66534961958021659cfe1898
+    
